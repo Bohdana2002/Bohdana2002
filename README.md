@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Hi, I'm Bohdana Turcheniak
 
 ### Junior Frontend Developer | React · TypeScript
