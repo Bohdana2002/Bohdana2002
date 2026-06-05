@@ -39,4 +39,4 @@ Frontend developer with a strong foundation in React and TypeScript, currently s
 
 ### 📫 How to reach me
 
-[LinkedIn](www.linkedin.com/in/bohdana-turcheniak) · [Email](mailto:bohdana.turcheniak2002@gmail.com) · [Telegram](@danaTurcheniak24)
+[LinkedIn](https://www.linkedin.com/in/bohdana-turcheniak/) · [Email](mailto:bohdana.turcheniak2002@gmail.com) · [Telegram](https://t.me/danaTurcheniak24)
