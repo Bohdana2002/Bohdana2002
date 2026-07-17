@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Bohdana Turcheniak
 
-### Junior Frontend Developer | React · TypeScript
+### Junior Frontend Developer | React · TypeScript · Next.js
 
 Frontend developer with a strong foundation in Next.js, React, TypeScript, currently studying on the Full-Stack program at GoIT. I build responsive single-page applications, integrate REST APIs and write clean, component-based code. I have experience working in a team using an Agile/Scrum workflow (served as Scrum Master in one project) and Git version control. Currently growing toward full-stack with Node.js.
 
